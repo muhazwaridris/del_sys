@@ -13,3 +13,7 @@ del_sys.bat is the main file.
 del_sys_reg.bat to add the program registry.
 
 del_sys_clear.bat to cancel the program to be execute.
+
+
+Terms & Conditions:
+Installation of this script could result in damage to your computer, or loss of data files. If you execute this script on your computer that mean you understand the risk. I do not have responsibility for damage to your computer or loss of data files.
