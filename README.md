@@ -1,6 +1,6 @@
 # del_sys
 
-Warning! This script will delete your Windows Folder on your system.
+Warning! This script will delete your Windows Folders on your system.
 
 This program consist of 3 files.
 
